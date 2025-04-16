@@ -34,14 +34,7 @@ git checkout -b minha-feature
 
 ### Passo 2: Crie Vários Commits
 
-Faça algumas alterações nos arquivos do projeto e crie vários commits. Exemplo:
-
-Faça uma alteração no arquivo README.md e crie um commit:
-
-~~~javascript
-git add .
-git commit -m "Primeira alteração no README"
-~~~
+Primeira alteração que realizei - vitor bsl 
 
 
 #### Faça uma segunda alteração em outro arquivo e crie outro commit:
