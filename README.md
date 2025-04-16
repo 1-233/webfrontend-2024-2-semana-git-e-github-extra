@@ -1,4 +1,4 @@
-# webfrontend-2024-2-semana-git-e-github-extra
+# webfrontend-2024-2-semana-git-e-github-extraa
 
 ### Desafio Git Rebase - Hacker Edition 🚀
 #### Desafio: Domine o Git Rebase
@@ -39,10 +39,7 @@ Primeira alteração que realizei - vitor bsl
 
 #### Faça uma segunda alteração em outro arquivo e crie outro commit:
 
-~~~javascript
-git add .
-git commit -m "Segunda alteração no outro arquivo"
-~~~
+Segunda alteração que realizei - Vitor BSL
 
 
 #### Faça mais uma terceira alteração em qualquer arquivo e crie um commit:
